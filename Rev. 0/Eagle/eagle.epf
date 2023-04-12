@@ -1,0 +1,35 @@
+[Eagle]
+Version="09 06 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="X:/Eagle/Eagle9lib/!GRAFIK.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/!pownet.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/74SingleGate.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/74XX.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/74XXsmd.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Alps.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Arduino.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Atmel.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Battery.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Block.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Bourns.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Cutpad.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/DIN-Templates.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/DISCRETE.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/DOC_IBSP.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/I-TEILE.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/Logo.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/PINHEAD.lbr"
+UsedLibrary="X:/Eagle/Eagle9lib/miniModules.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="5120 1440"
+Window="Win_1"
